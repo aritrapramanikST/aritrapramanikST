@@ -2,7 +2,7 @@
 
 :smile: I am Aritra Pramanik
 
-:house: India
+:house: Bangalore, India
 <!--
 **aritrapramanikST/aritrapramanikST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
